@@ -2,8 +2,6 @@
 #EXTINF:-1 tvg-id="CCTV13新闻" tvg-name="CCTV13新闻" tvg-logo="" group-title="收藏",CCTV13新闻
 http://pull-hls-f11.douyincdn.com/media/stream-695440843385864876.m3u8?arch_hrchy=w1&exp_hrchy=w1&expire=1773804633&major_anchor_level=common&sign=2109708d3a2da5de3a916933ce117b28&t_id=037-20260311113033D59DBA10999672734FAF-UWe230
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="" group-title="收藏",CCTV3综艺
-CCTV3,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?msisdn=20260313160204cc44ba44bf044aa8960607c8771b6cef&mdspid=&spid=699004&netType=0&sid=5500212864&pid=2028597139&timestamp=20260313160204&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878271&ParentNodeID=-99&assertID=5500212864&client_ip=218.28.233.106&SecurityKey=20260313160204&promotionId=&mvid=5100001683&mcid=500020&playurlVersion=ZQ-A1-9.2.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=8e5b3f1c61656db484824ac7ac95e4dc
-#EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="" group-title="收藏",CCTV3综艺
 http://74.91.26.218:82/live/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="CCTV3综艺" tvg-name="CCTV3综艺" tvg-logo="" group-title="收藏",CCTV3综艺
 http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
