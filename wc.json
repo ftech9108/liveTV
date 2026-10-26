@@ -9,6 +9,13 @@
       "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ftech9108/liveTV/refs/heads/main/live.txt",
       "timeout": 10,
       "playerType": 2
+    },
+    {
+      "name": "suxuang",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+      "timeout": 10,
+      "playerType": 2
     }
   ]
 }
